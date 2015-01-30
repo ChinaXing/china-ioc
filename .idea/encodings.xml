@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/BeanContainer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/BeanNotUniqueException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/BeanState.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/ChinaBeanInfo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/ChinaIOC.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/InitializeBeanException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/InitializeClass.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/annotation/AfterInit.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/annotation/ChinaBean.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/annotation/ChinaBeanFactoryMethod.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/annotation/ChinaBeanObjectType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/annotation/ChinaBeanType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/annotation/Inject.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/util/AnnotationClassSelector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/util/ClassSelector.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/util/CollectionUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/util/ReflectionUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/chinaxing/ioc/util/SuperClassSelector.java" charset="UTF-8" />
+  </component>
+</project>
